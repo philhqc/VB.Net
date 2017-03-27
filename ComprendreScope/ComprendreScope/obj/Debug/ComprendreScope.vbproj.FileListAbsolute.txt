@@ -1,0 +1,10 @@
+c:\users\philippe\documents\visual studio 2015\Projects\ComprendreScope\ComprendreScope\bin\Debug\ComprendreScope.exe.config
+C:\Users\Philippe\documents\visual studio 2015\Projects\ComprendreScope\ComprendreScope\bin\Debug\ComprendreScope.exe
+C:\Users\Philippe\documents\visual studio 2015\Projects\ComprendreScope\ComprendreScope\bin\Debug\ComprendreScope.pdb
+C:\Users\Philippe\documents\visual studio 2015\Projects\ComprendreScope\ComprendreScope\bin\Debug\ComprendreScope.xml
+C:\Users\Philippe\documents\visual studio 2015\Projects\ComprendreScope\ComprendreScope\obj\Debug\ComprendreScope.vbprojResolveAssemblyReference.cache
+C:\Users\Philippe\documents\visual studio 2015\Projects\ComprendreScope\ComprendreScope\obj\Debug\ComprendreScope.Resources.resources
+C:\Users\Philippe\documents\visual studio 2015\Projects\ComprendreScope\ComprendreScope\obj\Debug\ComprendreScope.vbproj.GenerateResource.Cache
+C:\Users\Philippe\documents\visual studio 2015\Projects\ComprendreScope\ComprendreScope\obj\Debug\ComprendreScope.exe
+C:\Users\Philippe\documents\visual studio 2015\Projects\ComprendreScope\ComprendreScope\obj\Debug\ComprendreScope.xml
+C:\Users\Philippe\documents\visual studio 2015\Projects\ComprendreScope\ComprendreScope\obj\Debug\ComprendreScope.pdb
